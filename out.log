@@ -1,0 +1,66 @@
+2024-11-08T08:41:42.949Z - Відкриваємо LinkedIn
+2024-11-08T08:41:45.900Z - Натискаємо на кнопку "Увійти"
+2024-11-08T08:41:49.679Z - Переходимо до профілю користувача
+2024-11-08T08:41:50.501Z - Помилка: Execution context was destroyed, most likely because of a navigation.
+2024-11-08T08:45:42.745Z - Відкриваємо LinkedIn
+2024-11-08T08:45:45.337Z - Натискаємо на кнопку "Увійти"
+2024-11-08T08:46:15.347Z - Помилка: Navigation timeout of 30000 ms exceeded
+2024-11-08T08:49:04.277Z - Відкриваємо LinkedIn
+2024-11-08T08:49:06.454Z - Натискаємо на кнопку "Увійти"
+2024-11-08T08:49:36.461Z - Помилка: Navigation timeout of 30000 ms exceeded
+2024-11-08T08:49:48.674Z - Відкриваємо LinkedIn
+2024-11-08T08:49:51.195Z - Натискаємо на кнопку "Увійти"
+2024-11-08T08:50:21.196Z - Помилка: Navigation timeout of 30000 ms exceeded
+2024-11-08T08:52:33.982Z - Відкриваємо LinkedIn
+2024-11-08T08:52:36.209Z - Натискаємо на кнопку "Увійти"
+2024-11-08T08:53:06.221Z - Помилка: Navigation timeout of 30000 ms exceeded
+2024-11-08T08:55:37.468Z - Відкриваємо LinkedIn
+2024-11-08T08:55:39.648Z - Натискаємо на кнопку "Увійти"
+2024-11-08T08:56:09.654Z - Помилка: Navigation timeout of 30000 ms exceeded
+2024-11-08T08:57:10.741Z - Відкриваємо LinkedIn
+2024-11-08T08:57:13.223Z - Натискаємо на кнопку "Увійти"
+2024-11-08T08:57:24.027Z - Помилка: Waiting for selector `[data-control-name="identity_welcome_message"]` failed: Waiting failed: 10000ms exceeded
+2024-11-08T09:00:22.771Z - Відкриваємо LinkedIn
+2024-11-08T09:00:25.010Z - Натискаємо на кнопку "Увійти"
+2024-11-08T09:00:35.210Z - Помилка: Waiting for selector `[data-control-name="identity_welcome_message"]` failed: Waiting failed: 10000ms exceeded
+2024-11-08T09:00:52.581Z - Відкриваємо LinkedIn
+2024-11-08T09:00:55.042Z - Натискаємо на кнопку "Увійти"
+2024-11-08T09:00:56.459Z - Помилка: Execution context was destroyed, most likely because of a navigation.
+2024-11-08T09:01:52.361Z - Відкриваємо LinkedIn
+2024-11-08T09:01:54.769Z - Натискаємо на кнопку "Увійти"
+2024-11-08T09:01:54.895Z - Перевірка входу
+2024-11-08T09:01:56.035Z - Помилка: Execution context was destroyed, most likely because of a navigation.
+2024-11-08T09:02:13.585Z - Відкриваємо LinkedIn
+2024-11-08T09:02:15.921Z - Натискаємо на кнопку "Увійти"
+2024-11-08T09:02:17.337Z - Помилка: Execution context was destroyed, most likely because of a navigation.
+2024-11-08T09:04:35.097Z - Відкриваємо LinkedIn
+2024-11-08T09:04:37.373Z - Натискаємо на кнопку "Увійти"
+2024-11-08T09:04:38.399Z - Помилка: page.waitForTimeout is not a function
+2024-11-08T09:05:42.027Z - Відкриваємо LinkedIn
+2024-11-08T09:05:44.143Z - Натискаємо на кнопку "Увійти"
+2024-11-08T09:05:52.725Z - Перевірка входу
+2024-11-08T09:05:53.012Z - Отримано URL зображення профілю: https://media.licdn.com/dms/image/v2/D4D35AQEqchQPPQbuGA/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1730478348995?e=1731664800&v=beta&t=9rp0C-bz2DYKvHQtM8S0NaLS1LCKST2IbDy0JINUAvI
+2024-11-08T09:05:53.363Z - Збережено зображення профілю як profile_picture.jpg
+2024-11-08T09:06:52.927Z - Відкриваємо LinkedIn
+2024-11-08T09:06:55.173Z - Натискаємо на кнопку "Увійти"
+2024-11-08T09:06:56.124Z - Перевірка входу
+2024-11-08T09:06:56.216Z - Не знайдено зображення профілю
+2024-11-08T09:07:23.231Z - Відкриваємо LinkedIn
+2024-11-08T09:07:25.553Z - Натискаємо на кнопку "Увійти"
+2024-11-08T09:07:56.163Z - Помилка: Navigation timeout of 30000 ms exceeded
+2024-11-08T09:08:01.116Z - Відкриваємо LinkedIn
+2024-11-08T09:08:03.490Z - Натискаємо на кнопку "Увійти"
+2024-11-08T09:08:15.454Z - Перевірка входу
+2024-11-08T09:08:15.582Z - Помилка входу. Перевірте ваші облікові дані.
+2024-11-08T09:08:41.922Z - Відкриваємо LinkedIn
+2024-11-08T09:08:44.180Z - Натискаємо на кнопку "Увійти"
+2024-11-08T09:09:14.865Z - Помилка: Navigation timeout of 30000 ms exceeded
+2024-11-08T09:09:19.615Z - Відкриваємо LinkedIn
+2024-11-08T09:09:21.973Z - Натискаємо на кнопку "Увійти"
+2024-11-08T09:09:23.002Z - Перевірка входу
+2024-11-08T09:09:23.108Z - Помилка входу. Перевірте ваші облікові дані.
+2024-11-08T09:18:54.661Z - Opening LinkedIn
+2024-11-08T09:18:57.126Z - Clicking "Sign In" button
+2024-11-08T09:19:06.340Z - Checking login status
+2024-11-08T09:19:06.664Z - Profile picture URL obtained: https://media.licdn.com/dms/image/v2/D4D35AQEqchQPPQbuGA/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1730478348995?e=1731664800&v=beta&t=9rp0C-bz2DYKvHQtM8S0NaLS1LCKST2IbDy0JINUAvI
+2024-11-08T09:19:06.932Z - Profile picture saved as profile_picture.jpg
